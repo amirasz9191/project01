@@ -1,2 +1,4 @@
 print('hello')
 print("hi")
+x = 10
+print(x * 2)
